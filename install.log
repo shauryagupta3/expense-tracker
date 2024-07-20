@@ -1,0 +1,9 @@
+[11:31:14 2024-07-18] FETCHING Version 2.36.15
+[11:31:14 2024-07-18] CREATING /home/shaurya/.spicetify
+[11:31:14 2024-07-18] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.36.15/spicetify-2.36.15-linux-amd64.tar.gz
+[11:31:21 2024-07-18] EXTRACTING /home/shaurya/.spicetify/spicetify.tar.gz
+[11:31:21 2024-07-18] SETTING EXECUTABLE PERMISSIONS TO /home/shaurya/.spicetify/spicetify
+[11:31:21 2024-07-18] REMOVING /home/shaurya/.spicetify/spicetify.tar.gz
+[11:31:21 2024-07-18] spicetify path already set in /home/shaurya/.zshrc, continuing...
+[11:31:21 2024-07-18] spicetify v2.36.15 was installed successfully to /home/shaurya/.spicetify
+[11:31:21 2024-07-18] Run 'spicetify --help' to get started
